@@ -28,7 +28,7 @@ body {
 
 #hero {
     height: 100vh;
-    background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+    background: linear-gradient(135deg, #ff6600  0%, #00ff00 80%);
     background-size: cover;
     background-position: center;
     position: relative;
