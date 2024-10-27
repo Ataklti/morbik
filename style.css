@@ -4,7 +4,7 @@
    height: 80vh;
     background: url('./img/Morbik EV.jpg') no-repeat center center/cover;  /* Background image */
     position: relative;
-	color: #FFFFFF;  /* Dark green text color */
+	/*color: #FFFFFF;   Dark green text color */
    /* color: #fff;*/
     overflow: hidden;
 }
@@ -103,6 +103,8 @@
 
 .container {
     border: 3px solid #00a651; /* Green color */
+	 /*background-color: #006400;*/
+	  background-color: #90EE90;
 }
 
 /* Other styles... */
@@ -213,7 +215,7 @@
     width: 100%;
     top: 0;
     z-index: 1000;
-    background: rgba(255, 255, 255, 0.8);
+   /* background: rgba(255, 255, 255, 0.8);*/
     backdrop-filter: blur(10px);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
